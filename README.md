@@ -4,16 +4,14 @@ actionable insights that will enhance the performance of the Coffee Shop.
 
 Problem Statements : -
 
-How do sales vary by day of the week and hour of the day?
+1. How do sales vary by day of the week and hour of the day?
 
-Are there any peak times for sales activity?
+2. Are there any peak times for sales activity?
 
-What is the total sales revenue for each month?
+3. What is the total sales revenue for each month?
 
-How do sales vary across different store locations?
+4. How do sales vary across different store locations?
 
-what is the average price/order per person ?
+5. what is the average price/order per person ?
 
-Which products are the bestselling in terms of quantity and revenue?
-
-How do sales vary by product category and type?
+6. Which products are the bestselling in terms of quantity and revenue?
